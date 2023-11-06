@@ -1,1 +1,1 @@
-git synchronization
+project to detect empty parking spots on streamlit
