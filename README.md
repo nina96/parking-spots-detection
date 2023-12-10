@@ -1,1 +1,1 @@
-project to detect empty parking spots on streamlit
+project to detect empty parking spots using opencv and classifier using svc. 
